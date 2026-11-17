@@ -1,0 +1,11 @@
+(.venv) PS C:\Users\197037-9\Documents\repaso\tercer_parcial\ejercicio_2> python main.py
+Número 1: 20
+Número 2: 8
+Resultado de la suma: 28
+Resultado de la resta: 12
+(.venv) PS C:\Users\197037-9\Documents\repaso\tercer_parcial\ejercicio_2> python main.py
+Número 1: 17
+Número 2: 6
+Resultado de la suma: 23
+Resultado de la resta: 11
+(.venv) PS C:\Users\197037-9\Documents\repaso\tercer_parcial\ejercicio_2> 

@@ -1,0 +1,9 @@
+(.venv) PS C:\Users\197037-9\Documents\repaso\tercer_parcial\ejercicio_1> python main.py
+Ingrese las horas de estacionamiento: 4
+Horas: 4, Importe: $48.00
+(.venv) PS C:\Users\197037-9\Documents\repaso\tercer_parcial\ejercicio_1> python main.py
+Ingrese las horas de estacionamiento: 2
+Horas: 2, Importe: $30.00
+(.venv) PS C:\Users\197037-9\Documents\repaso\tercer_parcial\ejercicio_1> python main.py
+Ingrese las horas de estacionamiento: 6
+Horas: 6, Importe: $60.00

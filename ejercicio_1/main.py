@@ -36,13 +36,14 @@ class Estacionamiento(object):
         pago = self.calcularPago()
         print(f"Horas: {self.horas}, Importe: ${pago:.2f}")
 
-    def main():
-    horas = int(input("Ingrese las horas de estacionamiento: "))
-        if horas > 0:
-            estacionamiento = Estacionamiento(horas)
-            estacionamiento.mostrarRecibo()
-        else:
-            print("Por favor, ingrese un número entero mayor que cero.")
+    
+    
 
 if __name__ == "__main__":
-    main()
+    horas = int(input("Ingrese las horas de estacionamiento: "))
+    if horas > 0:
+        estacionamiento = Estacionamiento(horas)
+        estacionamiento.mostrarRecibo()
+    else:
+        print("Por favor, ingrese un número entero mayor que cero.")
+
